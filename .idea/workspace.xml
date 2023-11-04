@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01015ffb-764b-42bf-bc86-0e7ce272302e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/movies.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/movies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Movie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ReviewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ReviewController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ReviewService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ReviewService.java" afterDir="false" />
     </list>
@@ -18,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
